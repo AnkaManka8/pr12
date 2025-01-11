@@ -1,0 +1,16 @@
+/* style.css */
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #e7b2d9;
+    color: #011104;
+}
+
+h1 {
+    color: #0b0b01;
+    text-align: center;
+}
+
+p {
+    text-indent: 30px;
+    font-size: 16px;
+}
